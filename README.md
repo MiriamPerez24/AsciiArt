@@ -21,3 +21,5 @@ pip install colorama
 7. Instale todo eso tanto en el entorno virtual y en el python 
 7.1 Salirme del entorno
 8. Ahora subire mi repositorio que ya se lo yisus nuestro señor quiera 
+9. Se pone que se debe de ver asi: 
+![Mensaje solicitado y un patito en ASCII!](https://github.com/MiriamPerez24/AsciiArt/blob/main/patitoMensaje.jpg "Mensaje y un patito")
