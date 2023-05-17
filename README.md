@@ -12,7 +12,7 @@ source env/Scripts/activate
 ```
 5. Se instalo asc con el siguiente comando 
 ```bash
-pip install asc
+pip install art
 ```
 6. Se intalo el colorama 
 ```bash 
